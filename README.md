@@ -9,5 +9,5 @@ sales and profit report, it prensents an executive summary of:
 
 [Data Source](https://learn.microsoft.com/en-us/power-bi/create-reports/sample-financial-download)
 
-<img width="604" alt="Finance_image" src="https://github.com/SE-Khalil75/Finance-Analysis_PowerBI/assets/87024181/2b1d3db7-4ee9-4bee-9203-42c77c5e6c3d">
+<img width="608" alt="Finance_image1" src="https://github.com/SE-Khalil75/Finance-Analysis_PowerBI/assets/87024181/3a9a0252-3ed1-455e-9c33-4c1a51b54508">
 
